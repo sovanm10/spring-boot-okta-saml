@@ -66,7 +66,7 @@ From  left side select  Directory -> People -> Add Person
 
 ##### 17.	Add below property in application yml
 
-      server.port = 8443
+      server.port = 8080
       server.ssl.enabled = true
       server.ssl.key-alias = spring
       server.ssl.key-store = classpath:saml/keystore.jks
